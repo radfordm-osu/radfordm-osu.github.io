@@ -26,6 +26,11 @@ There are currently only a few interactable objects, but the purpose of this pro
 More about interactables on the [interactables page](/valvevr/interactables).<br />
 
 <hr>
+### Sockets
+Sockets are used for the controlled placement of objects.<br />
+More about interactables on the [interactables page](/valvevr/sockets).<br />
+
+<hr>
 ### Old Projects
 This project re-used and updated assets from older project solutions. You can find the orignal projects from past years below.
 - [VR Factory (2020)](https://github.com/jlouis2k4/VR-Construction-Training-System)
