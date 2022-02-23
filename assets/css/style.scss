@@ -56,6 +56,8 @@
 }
 
 .next_to_side {
-  margin-left: 250px;
+  margin-left: 200px;
   width: 100%;
+  position: absolute;
+  overflow-y: scroll;
 }
