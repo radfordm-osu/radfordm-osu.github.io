@@ -56,8 +56,10 @@
 }
 
 .new_inner {
+  width: 100vw;
   padding: 20px 10px;
   margin: 0 auto auto 10px;
+
 }
 
 .left {
@@ -77,12 +79,7 @@
 
 .cont {
   position: fixed;
-  width: 100vw;
   height: 100%;
   padding: 0;
   display: inline-flex;
-}
-
-p {
-  max-width: 900px;
 }

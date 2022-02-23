@@ -4,7 +4,7 @@ VRWTS was originally designed for ValveVR. This version may be more stable and c
 
 <hr>
 ## Modules
-<hr>
+
 ### Task System
 The task system consists of a **[Task Watcher](/valvevr/tasks/task-watcher)** and **[Task Objects](/valvevr/tasks/task-objects)**.
 Simply put, the **Task Watcher** initializes and counts the **Task Objects**.<br />
