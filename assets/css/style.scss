@@ -56,13 +56,9 @@
 }
 
 .new_outer {
-  position: relative;
-  width: 100%;
 }
 
 .new_inner {
-  position: relative;
-  max-width: 640px;
   padding: 20px 10px;
   margin: 0 auto auto 10px;
 }
@@ -71,22 +67,13 @@
   float: left;
   height: 100%;
   width: 200px;
-  position: fixed;
-  top: 0;
-  overflow-x: hidden;
 }
 
 .right {
   height: 100%;
   width: 100%;
-  position: fixed;
-  top: 0;
-  left: 200px;
-  overflow-x: hidden;
 }
 
 .cont {
-  width: 100%;
   height: 100%;
-  border: 0px solid #000000;
 }
