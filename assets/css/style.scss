@@ -58,14 +58,16 @@
 .next_to_side {
 }
 
-.outer {
+.new_outer {
+  position: relative;
   width: 100%;
+  margin-left: 200px;
 }
 
-.inner {
+.new_inner {
   position: relative;
   max-width: 640px;
   padding: 20px 10px;
   margin: 0 auto;
-  left: 200px;
+
 }
