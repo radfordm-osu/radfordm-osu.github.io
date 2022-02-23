@@ -11,7 +11,7 @@
     {% include head-custom.html %}
   </head>
 
-  <body class="next_to_side">
+  <body>
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
@@ -44,20 +44,22 @@
 
 
     <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        {{ content }}
-      </section>
-    </div>
+    <div class="next_to_side">
+      <div id="main_content_wrap" class="outer">
+        <section id="main_content" class="inner">
+          {{ content }}
+        </section>
+      </div>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
+      <!-- FOOTER  -->
+      <div id="footer_wrap" class="outer">
+        <footer class="inner">
+          {% if site.github.is_project_page %}
+            <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+          {% endif %}
+          <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+        </footer>
+      </div>
     </div>
   </body>
 </html>
