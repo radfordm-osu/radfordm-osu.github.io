@@ -63,17 +63,18 @@
   margin: 0 auto auto 10px;
 }
 
-.left {
+#left {
   float: left;
   height: 100%;
   width: 200px;
 }
 
-.right {
+#right {
   height: 100%;
   width: 100%;
+  float: left;
 }
 
-.cont {
+#cont {
   height: 100%;
 }
