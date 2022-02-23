@@ -69,5 +69,21 @@
   max-width: 640px;
   padding: 20px 10px;
   margin: 0 auto;
+}
 
+.left {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+}
+
+.right {
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 200px;
+  overflow-x: hidden;
 }
