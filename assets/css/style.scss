@@ -15,6 +15,7 @@
   overflow-x: hidden;
   background-color: #808080;
   padding-top: 20px;
+  overflow-y: scroll;
 }
 
 .h1_side {
@@ -66,7 +67,6 @@
   width: 260px;
   min-width: 260px;
   max-width: 260px;
-  overflow-y: scroll;
   overflow-x: hidden;
   background-color: #808080;
   float: left;
