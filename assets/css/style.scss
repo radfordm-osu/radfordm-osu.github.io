@@ -56,8 +56,16 @@
 }
 
 .next_to_side {
-  margin-left: 200px;
+}
+
+.outer {
   width: 100%;
-  position: absolute;
-  overflow-y: scroll;
+}
+
+.inner {
+  position: relative;
+  max-width: 640px;
+  padding: 20px 10px;
+  margin: 0 auto;
+  left: 200px;
 }
