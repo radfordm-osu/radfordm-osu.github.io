@@ -9,12 +9,11 @@
 }
 
 .sidenav {
-  height: 71%;
-  width: 300px;
+  height: 100%;
+  width: 250px;
   position: fixed;
   z-index: 1;
   overflow-y: scroll;
-  top: 263px;
   left: 0;
   overflow-x: hidden;
   background-color: #808080;
@@ -57,6 +56,6 @@
 }
 
 .next_to_side {
-  margin-left: 100px;
+  margin-left: 250px;
   width: 100%;
 }
