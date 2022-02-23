@@ -10,7 +10,7 @@
 
 .sidenav {
   height: 71%;
-  width: 18%;
+  width: 20%;
   position: fixed;
   z-index: 1;
   overflow-y: scroll;
@@ -25,14 +25,16 @@
   text-decoration: none;
   padding: 6px 8px 6px 16px;
   font-size: 25px;
+  font-weight: bold;
   display: inline-block;
 }
 
 .h2_side {
   text-decoration: none;
   padding: 6px 8px 6px 16px;
-  margin-left: 10px;
+  margin-left: 5px;
   font-size: 20px;
+  font-weight: bold;
   display: inline-block;
 }
 
@@ -50,5 +52,5 @@
 }
 
 .next_to_side {
-  left: 18%;
+  left: 20%;
 }
