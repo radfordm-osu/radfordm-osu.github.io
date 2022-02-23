@@ -56,6 +56,7 @@
 }
 
 .new_outer {
+  position: relative;
 }
 
 .new_inner {
@@ -63,20 +64,25 @@
   margin: 0 auto auto 10px;
 }
 
-#left {
+.left {
   float: left;
   height: 100%;
   width: 200px;
+  position: fixed;
+  top: 0;
+  overflow-x: hidden;
 }
 
-#right {
+.right {
   height: 100%;
   width: 100%;
-  position: relative;
+  position: fixed;
   top: 0;
   left: 200px;
+  overflow-x: hidden;
 }
 
-#cont {
+.cont {
+  width: 100%;
   height: 100%;
 }
