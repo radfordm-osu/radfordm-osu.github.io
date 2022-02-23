@@ -8,7 +8,7 @@ VR Workforce Training is a scalable system for objects and VR scenarios aimed to
 
 This project has major differences between the ValveVR and Oculus versions. Be sure to reference the correct documentation.
 
-- [ValveVR](https://github.com/radfordm-osu/radfordm-osu.github.io/valvevr.md)
-- [Oculus](https://github.com/radfordm-osu/radfordm-osu.github.io/oculus.md)
+- [ValveVR](https://radfordm-osu.github.io/valvevr)
+- [Oculus](https://radfordm-osu.github.io/oculus)
 
 This documentation is extensive and covers the major aspects of the VR Workforce Training system.
