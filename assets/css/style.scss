@@ -10,7 +10,7 @@
 
 .sidenav {
   height: 71%;
-  width: 23%;
+  width: 100px;
   position: fixed;
   z-index: 1;
   overflow-y: scroll;
@@ -57,7 +57,7 @@
 }
 
 .next_to_side {
-  left: 23%;
-  width: 77%;
+  left: 100px;
+  width: 100%;
   position: fixed;
 }
