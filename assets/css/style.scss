@@ -10,11 +10,13 @@
 
 .sidenav {
   height: 100%;
+  width: 260px;
   z-index: 1;
   left: 0;
   overflow-x: hidden;
   background-color: #808080;
   padding-top: 20px;
+  overflow-y: scroll;
 }
 
 .h1_side {
@@ -70,7 +72,7 @@
   background-color: #808080;
   float: left;
   display: flex;
-  overflow-y: visible;
+  overflow-y: hidden;
 }
 
 .right {
