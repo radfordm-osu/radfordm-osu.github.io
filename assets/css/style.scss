@@ -27,6 +27,7 @@
   font-size: 25px;
   font-weight: bold;
   display: inline-block;
+  color: #dedede;
 }
 
 .h2_side {
@@ -36,6 +37,7 @@
   font-size: 23px;
   font-weight: bold;
   display: inline-block;
+  color: #dedede;
 }
 
 .collapse {
@@ -56,4 +58,5 @@
 
 .next_to_side {
   left: 20%;
+  position: fixed;
 }
