@@ -9,13 +9,14 @@
 }
 
 .sidenav {
-  height: 120%;
+  height: 100%;
   width: 260px;
   z-index: 1;
   left: 0;
   overflow-x: hidden;
   background-color: #808080;
   padding-top: 20px;
+  padding-bottom: 80px;
   overflow-y: scroll;
 }
 
