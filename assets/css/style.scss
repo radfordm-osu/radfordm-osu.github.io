@@ -90,12 +90,13 @@
   background-color: #808080;
   float: left;
   display: inline-block;
-  overflow-y: hide;
+  overflow-y: hidden;
 }
 
 .right {
   display: inline-block;
   width: calc(100% - 100px);
+  overflow-y: scroll;
 }
 
 .cont {
