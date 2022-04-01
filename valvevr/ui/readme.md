@@ -1,5 +1,5 @@
 <hr>
-## User Interfaces
+# User Interfaces
 The UI system includes the following compoenents:<br />
 
 - [Main Menu](/valvevr/ui/main-menu)

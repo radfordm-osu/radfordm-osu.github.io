@@ -3,6 +3,7 @@
 The pause menu works almost the same as the [Main Menu](/valvevr/ui/main-menu). The main difference is that the pause menu does not have a scenario selection but instead has the option to return to the main menu. The pause menu may be opened by pressing 'Y' on an oculus controller in any scenario.
 
 ## Public Methods
+
 ###SpawnMenu():
 Makes the pause menu visible and enables laser pointers.
 
