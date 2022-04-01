@@ -80,7 +80,7 @@ body {
 }
 
 .new_inner {
-  width: 100%;
+  width: auto;
   padding: 20px 10px;
   margin: 0 auto auto 10px;
 
@@ -95,11 +95,11 @@ body {
   background-color: #808080;
   float: left;
   display: flex;
-  overflow-y: scroll;
+  overflow-y: hide;
 }
 
 .right {
-  width: auto;
+  width: 100%;
   display: inline-block;
 }
 
