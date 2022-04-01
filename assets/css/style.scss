@@ -95,12 +95,12 @@ body {
   background-color: #808080;
   float: left;
   display: flex;
-  overflow-y: hidden;
+  overflow-y: scroll;
 }
 
 .right {
-  display: flex;
   width: auto;
+  display: inline-block;
 }
 
 .cont {
@@ -108,6 +108,7 @@ body {
   height: 100%;
   width: auto;
   padding: 0;
+  display: flex;
 }
 
 button {
