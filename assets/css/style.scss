@@ -3,11 +3,6 @@
 
 @import "{{ site.theme }}";
 
-
-body {
-  width: auto;
-}
-
 .nav_item {
   font-size: 35px;
   text-decoration: none;
@@ -94,7 +89,7 @@ body {
   overflow-x: hidden;
   background-color: #808080;
   float: left;
-  display: flex;
+  display: inline-block;
   overflow-y: hide;
 }
 
