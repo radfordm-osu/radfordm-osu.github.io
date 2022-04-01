@@ -24,7 +24,6 @@
   padding: 6px 8px 6px 16px;
   font-size: 30px;
   font-weight: bold;
-  display: flex;
   color: #dedede;
   float: left;
 }
@@ -35,7 +34,6 @@
   margin-left: 5px;
   font-size: 25px;
   font-weight: bold;
-  display: flex;
   color: #dedede;
   float: left
 }
@@ -48,6 +46,7 @@
   font-size: 20px;
   font-weight: bold;
   color: #ffffff;
+  height: auto;
 }
 
 .coll {
