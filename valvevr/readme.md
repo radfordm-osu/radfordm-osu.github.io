@@ -28,7 +28,7 @@ More about interactables on the [interactables page](/valvevr/interactables).<br
 <hr>
 ### Sockets
 Sockets are used for the controlled placement of objects.<br />
-More about interactables on the [interactables page](/valvevr/sockets).<br />
+More about these on the [sockets page](/valvevr/sockets).<br />
 
 <hr>
 ### Old Projects
