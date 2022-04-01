@@ -109,8 +109,10 @@
       var content = this.nextElementSibling;
       if (content.style.display === "block") {
         content.style.display = "none";
+        content.querySelector('.coll').innerHTML = "\/";
       } else {
         content.style.display = "block";
+        content.querySelector('.coll').innerHTML = "/\";
       }
     });
   }
