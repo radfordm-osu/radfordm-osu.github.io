@@ -50,14 +50,13 @@
 
 .coll {
   display: inline;
-  width: 40px;
-  height: 40px;
   border: 1px solid #ffffff;
   border-radius: 5px;
   background-color: #00000000;
   font-size: 20px;
   font-weight: bold;
   color: #ffffff;
+  width: 40px;
 }
 
 .hide {
@@ -70,8 +69,12 @@
   width: auto;
 }
 
+.new_outer {
+  width: auto;
+}
+
 .new_inner {
-  width: 100vw;
+  width: 100%;
   padding: 20px 10px;
   margin: 0 auto auto 10px;
 
