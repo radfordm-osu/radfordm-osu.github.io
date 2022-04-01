@@ -76,7 +76,7 @@ body {
 
 .new_outer {
   width: auto;
-  display: inline-block;
+  display: block;
 }
 
 .new_inner {
@@ -108,7 +108,6 @@ body {
   height: 100%;
   width: auto;
   padding: 0;
-  display: inline-block;
 }
 
 button {
