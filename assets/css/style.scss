@@ -99,8 +99,8 @@ body {
 }
 
 .right {
-  width: 100vw;
   display: inline-block;
+  width: calc(100% - 100px);
 }
 
 .cont {
