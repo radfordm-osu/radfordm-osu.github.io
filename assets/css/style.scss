@@ -39,6 +39,15 @@
 }
 
 .collapse {
+  background-color: #00000000;
+  cursor: pointer;
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.coll {
   width: auto;
   height: auto;
   border: 1px solid #ffffff;
