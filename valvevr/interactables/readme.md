@@ -3,7 +3,7 @@
 The User Interfaces system includes the following compoenents:<br />
 
 ## Components:
-- [Grab Spawner](/valvevr/interactables/grabspawner)
+- [Grab Spawner](/valvevr/interactables/grab-spawner)
 - [Hammer](/valvevr/interactables/hammer)
 - [Nail](/valvevr/interactables/nail)
 - [Nailgun](/valvevr/interactables/nailgun)
