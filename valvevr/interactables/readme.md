@@ -1,6 +1,7 @@
 <hr>
-# User Interfaces
-The User Interfaces system includes the following compoenents:<br />
+# Objects
+The Object system covers a number of objects that can be interacted with. Users can experience some interesting interactive tasks in VWTS through this interactive object with the Oculus Quest 2 headset device.
+The Object system includes the following compoenents:<br />
 
 ## Components:
 - [Grab Spawner](/valvevr/interactables/grab-spawner)
