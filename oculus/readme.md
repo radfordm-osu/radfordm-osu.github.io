@@ -2,6 +2,6 @@ Oculus Documentation
 ========
 
 Oculus documentation is broken into three sections:
-* [Enabling Developer Mode](/devMode)
-* [Development Environment Setup](/envSetup)
-* [Converting to XR Origin](/converting)
+* [Enabling Developer Mode](/oculus/devMode)
+* [Development Environment Setup](/oculus/envSetup)
+* [Converting to XR Origin](/oculus/converting)
