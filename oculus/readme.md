@@ -1,4 +1,7 @@
 Oculus Documentation
 ========
 
-There is currently no documentation for the Oculus Standalone project.
+Oculus documentation is broken into three sections:
+* [Enabling Developer Mode](/devMode)
+* [Development Environment Setup](/envSetup)
+* [Converting to XR Origin](/converting)
