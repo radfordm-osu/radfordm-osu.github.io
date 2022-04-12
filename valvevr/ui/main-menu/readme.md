@@ -12,7 +12,7 @@ For a scene to be visible from the main menu, the following steps must be taken:
 
 Optional - To give the scene an icon in the main menu, add a PNG image named 'icon' to the scene folder created in step 1. In the inspector, change the TEXTURE TYPE field to 'Sprite (2D and UI)' then select 'Apply'.
 
-Once these steps are completed, the scene will automatically be added to the scenarios list when a the application is run.
+Once these steps are completed, the scene will automatically be added to the scenarios list when the application is run.
 
 ## Public Methods
 ### NextPage():
@@ -22,12 +22,12 @@ Displays the next scenarios on the menu (up to 3). If the last page is currently
 Displays the last scenarios on the menu (up to 3). If the first page is currently shown, it loads the last page. Called on the pressing of the up arrow in the scenes menu.
 
 ### OpenScene(string scene_name):
-Opens a the scene with the given name. Called on the pressing of the play button on a scene.
+Opens the scene with the given name. Called on the pressing of the play button on a scene.
 
 ### OpenScenesMenu():
-Displays the scnario selection menu. Called when the scenarios button is pressed.
+Displays the scenario selection menu. Called when the scenarios button is pressed.
 
-### OpenMainMenu:
+### OpenMainMenu():
 Displays the default main menu. Called when returning to the main menu.
 
 ### OpenOptionsMenu():

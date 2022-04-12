@@ -13,7 +13,7 @@ Hides the pause menu and disables laser pointers.
 ###ReturnToMain():
 Closes the scene and opens the main menu. More on this [here](/valvevr/ui/main-menu).
 
-### OpenMainMenu:
+### OpenMainMenu():
 Displays the default pause menu. Called when returning to the pause menu.
 
 ### OpenOptionsMenu():

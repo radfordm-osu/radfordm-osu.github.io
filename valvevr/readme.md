@@ -32,5 +32,5 @@ More about these on the [sockets page](/valvevr/sockets).<br />
 
 <hr>
 ### Old Projects
-This project re-used and updated assets from older project solutions. You can find the orignal projects from past years below.
+This project re-used and updated assets from older project solutions. You can find the original projects from past years below.
 - [VR Factory (2020)](https://github.com/jlouis2k4/VR-Construction-Training-System)
