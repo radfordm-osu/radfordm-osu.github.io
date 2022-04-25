@@ -7,5 +7,8 @@ The hammerable borads are prefabs that you can reuse this GameObject configured 
 ### Throwable
 ### Socketable
 
+## Related Material
+### Ghost
+
 ## Where to find this object?
 Assets -> _Prefabs

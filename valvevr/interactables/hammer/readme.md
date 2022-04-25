@@ -8,6 +8,10 @@ The hammer is a prefab that you can reuse this GameObject configured in a partic
 ### Interactable
 ### Generic Velocity Calculator
 
+## Related Material
+### Metal_Light Grey
+### Wood_1
+
 ## Where to find this object?
 
 Assets -> _Prefabs

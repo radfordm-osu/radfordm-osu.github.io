@@ -7,6 +7,9 @@ The Nailgun is a prefab that you can reuse this GameObject configured in a parti
 ### Throwable
 ### New Nail Gun
 
+## Related Material
+### Metal_Light Grey
+### Metal_Grey
 
 
 ## Where to find this object?
