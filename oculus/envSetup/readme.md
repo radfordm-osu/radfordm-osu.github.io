@@ -20,6 +20,9 @@ For android studio, you'll simply need to install an Android SDK that is compati
 # Unity
 There are numerous items and features you'll have to enable within Unity to begin developing for the Quest 2.
 
+Before getting started, it is recommend you create a new branch (or entirely new repo) containing your project, as
+you'll be making significant changes that cannot (and should not) be merged into main.
+
 1. Go to the Package Manager Settings and go to "Advanced Settings"
 2. Enable Preview Packages.
 3. Open the Package Manager and install the following packages, if not installed already:
