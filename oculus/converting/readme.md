@@ -1,7 +1,7 @@
 Oculus Documentation - Converting Code to Oculus-compatible systems
 ========
 
-Overall, converting project based on the SteamVR and ValveVR interaction system is not an easy one.
+Overall, converting a project based on the SteamVR and ValveVR interaction system is not an easy one.
 In many cases, you will need to develop components from the ground-up, especially if you do not want to pay for assets or other interaction
 systems.
 
