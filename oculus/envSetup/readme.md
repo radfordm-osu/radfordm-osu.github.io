@@ -8,9 +8,9 @@ Aside from enabling developer mode for your Quest 2, you'll need some other reso
 * [Oculus ADB Drivers](https://developer.oculus.com/downloads/package/oculus-go-adb-drivers/)
 * [Android Studio](https://developer.android.com/studio)
 
-Additionally if you would like to install the .apk files (app installation files) that you create without re-opening Unity, you can install
+Additionally if you would like to install the .apk files (app installation files) that you create without reopening Unity, you can install
 [SideQuest](https://sidequestvr.com/), which is an application that allows you to sideload applications created by other users (or yourself)
-onto your Quest 2. This is the preferred method if you are destributing your application with .apk files.
+onto your Quest 2. This is the preferred method if you are distributing your application with .apk files.
 
 ========
 # Android Studio
@@ -26,7 +26,7 @@ you'll be making significant changes that cannot (and should not) be merged into
 1. Go to the Package Manager Settings and go to "Advanced Settings"
 2. Enable Preview Packages.
 3. Open the Package Manager and install the following packages, if not installed already:
-    * XR Interaction Tookit
+    * XR Interaction Toolkit
     * XR Plug-in Management.
     * (Optional) Oculus Assets - also available in the Unity Asset store.
 4. Go to the XR Plug-in Management settings within Project Settings.
@@ -47,4 +47,4 @@ Other interaction systems include:
 * [XR Interaction System](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html)
 * [OVR](https://developer.oculus.com/documentation/unity/unity-import/)
 
-These are not extensively covered, but a brief introduction to utilizing XR and links to other resources are included in the [Converting](../oculus/converting) module.
+These are not extensively covered, but a brief introduction to utilizing XR and links to other resources are included in the [Converting](/oculus/converting) module.
