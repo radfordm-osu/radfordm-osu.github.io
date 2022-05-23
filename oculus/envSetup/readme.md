@@ -38,4 +38,13 @@ you'll be making significant changes that cannot (and should not) be merged into
 10. Plug in your Quest 2, and ensure it is on (and USB communication is turned on).
 
 At this point, you will be given the option to Build, or Build and Run your application. However, if your project is still utilizing the ValveVR Interaction system
-as a means of interaction, the build will fail. At this point, you can begin working to convert code to the Quest 2's means of interaction (XR Origin).
+as a means of interaction, the build will fail.
+
+At this point, you will need to either convert your existing code to use a new interaction system, or create equivalents with a different system.
+
+Other interaction systems include:
+* [VRIF](https://assetstore.unity.com/packages/templates/systems/vr-interaction-framework-161066#description)
+* [XR Interaction System](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html)
+* [OVR](https://developer.oculus.com/documentation/unity/unity-import/)
+
+These are not extensively covered, but a brief introduction to utilizing XR and links to other resources are included in the [Converting](../oculus/converting) module.
